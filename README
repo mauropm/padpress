@@ -1,0 +1,24 @@
+README - Padpressf
+Mauro Parra <mauropm@gmail.com>
+
+*Introduction*
+I liked the idea behind the Padpress project: two UX students creating a nice school project to get the best of the wordpress world to the ipad
+ plataform, so you can have a natural look and feel, with all the advantages of the wordpress functionality. 
+
+The original authors are Ismail, T. & Musbah, M., and you can find the original website at: http://padpress.org
+
+You can download the original version from: http://padpress.org/download/
+
+*Forkity Fork* 
+
+Looks like the development is stopped for now, there is no a repository for pushing contributions (check here: http://padpress.org/contribute/) and
+I think that the work it's interesting, so I will start "forking" this, and if I get something interesting, write them back to see if they 
+accept my contribution to their main code. 
+
+*Get the code if you want*
+
+I want to modify this code as much as needed to provide most of the wordpress functionality into the ipad version. Since the original version is in 
+GPL, I will honor that license as well. You are free to copy, use, modify, hack, etc the code. 
+
+Best, 
+M 
